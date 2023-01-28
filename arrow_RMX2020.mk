@@ -24,9 +24,6 @@ PRODUCT_MANUFACTURER := realme
 
 TARGET_BOOT_ANIMATION_RES := 720
 
-# ArrowOS additions
-DEVICE_MAINTAINER := sarthakroy2002
-
 # Build info
 BUILD_FINGERPRINT := "google/sunfish/sunfish:13/TQ1A.230105.001/9292298:user/release-keys"
 PRODUCT_BUILD_PROP_OVERRIDES += \
