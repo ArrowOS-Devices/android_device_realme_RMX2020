@@ -97,9 +97,7 @@ PRODUCT_PACKAGES += \
     Aperture
 
 # Charger
-PRODUCT_PACKAGES += \
-    charger_res_images_vendor \
-    product_charger_res_images_vendor
+TARGET_INCLUDE_PIXEL_CHARGER := true
 
 # Configstore
 PRODUCT_PACKAGES += \
